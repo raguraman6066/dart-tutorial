@@ -24,9 +24,9 @@ void main() {
   // int 1firstInteger = 1;
   // int $secondInteger = 2;
   // int if = 2;
-  int _thirdInteger = 3; // Make variable private
-  int fourthInteger = 4;
-  int FourthInteger = 4;
+  // int _thirdInteger = 3; // Make variable private
+  // int fourthInteger = 4;
+  // int FourthInteger = 4;
 
   //Number
   // num firstInteger = 1;
@@ -58,18 +58,18 @@ void main() {
   // print(isHungry);
 
   // String
-  // String firstStr = "Hello";
-  // String secondStr = 'Ruize';
-  // String thirdStr = "It's a good day";
-  // String fourthStr = 'It\'s a good day';
+  String firstStr = "Hello";
+  String secondStr = 'Ruize';
+  String thirdStr = "It's a good day";
+  String fourthStr = 'It\'s a good day';
 
   // String multiLine = """Hello
   // World
   // !""";
 
   // String Concatenation
-  // print(firstStr + secondStr);
-  // print(firstStr + ' ' + secondStr);
+  print(firstStr + secondStr);
+  print(firstStr + ' ' + secondStr);
 
   // String Interpolation
   // print('my name is $secondStr');
